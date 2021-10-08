@@ -1,0 +1,39 @@
+
+
+.special {
+    color: red;
+
+}
+
+.special2 {
+    background:black;
+}
+
+p {
+    font-size: 12px;
+}
+p {
+    color : green;
+    border: solid red;
+    }
+
+    h1 {
+      color: purple;
+    }
+
+    h4 {
+      background: blue;
+    }
+    h5{
+        background: lightblue;
+        color: green;
+    }
+
+</style>
+
+a {
+
+    color: black;
+}
+
+
