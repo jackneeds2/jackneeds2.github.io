@@ -1,24 +1,25 @@
-
-
-.special {
-    color: red;
-
-}
-
-.special2 {
-    background:black;
-}
+h1 {
+    color: purple;
+    margin-right: 20px;
+  }
+  h2{
+      background-color: greenyellow;
+      opacity: 0.6;
+  }
 
 p {
-    font-size: 12px;
-}
-p {
-    color : green;
-    border: solid red;
+    text-align: middle;
     }
+    
 
-    h1 {
-      color: purple;
+    
+   
+    div {
+        width: 500px;
+        height: 50px;
+        padding: 20px;
+        border: 2px double red;
+        margin: auto;
     }
 
     h4 {
@@ -28,12 +29,55 @@ p {
         background: lightblue;
         color: green;
     }
+    .special {
+        border-style: solid;
+        padding-top: 20px;
+        padding-bottom: 17px;
+        width: 300px
+        color: red;
+    
+    }
+    
+    .special2 {
+        padding-top: 16px;
+        padding-bottom: 14px;
+        background:black;
+    }
+#container {
+    border-top-style: single;
+    border-top-color:  blue;
+    font-size: 30px;
+}
 
-</style>
+#panel {
+    border-top: teal;
+    border-left: thin;
+    font-size: 15px;
 
-a {
+}
 
-    color: black;
+.jack{
+    width: 200px;
+    height: 60px;
+    background-color: blue;
+    animation-name: jack;
+    animation-duration: 8s;
+
+}
+/*Our animation code */
+@keyframes jack {
+    from {background-color: blue;}
+    to {background-color: red;}
 }
 
 
+.example p {
+    color: red;
+}
+.example2 p {
+    color:blue;
+}
+
+.example3 p {
+    color:green;
+}
