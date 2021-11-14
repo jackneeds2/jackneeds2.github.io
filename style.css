@@ -1,3 +1,14 @@
+
+
+
+body {
+	background-image: url("images/coverimageyellowstonMG0932.jpg");
+}
+
+
+
+
+/*
 h1 {
     color: purple;
     margin-right: 20px;
@@ -64,7 +75,7 @@ p {
     animation-duration: 8s;
 
 }
-/*Our animation code */
+/*Our animation code 
 @keyframes jack {
     from {background-color: blue;}
     to {background-color: red;}
@@ -81,3 +92,5 @@ p {
 .example3 p {
     color:green;
 }
+
+*/
