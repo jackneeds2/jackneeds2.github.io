@@ -1,0 +1,35 @@
+<html>
+<head>
+
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+
+<script src="menuscript.js" language="javascript" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="menustyle.css" media="screen, print" />
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+<title>scenic images of Idaho</title></head>
+<body class="backgroundcolor">
+<img src="images/header_sunrise_n2.jpg" width="1224" height="230">
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr><td>
+<a href="home.html" onMouseOver="setOverImg('1','');overSub=true;showSubMenu('submenu1','button1');" onMouseOut="setOutImg('1','');overSub=false;setTimeout('hideSubMenu(\'submenu1\')',delay);" target=""><img src="buttons/button1up.png" border="0" id="button1" vspace="1" hspace="1"></a><a href="contactme_n1.html" onMouseOver="setOverImg('2','');overSub=true;showSubMenu('submenu2','button2');" onMouseOut="setOutImg('2','');overSub=false;setTimeout('hideSubMenu(\'submenu2\')',delay);" target=""><img src="buttons/button2up.png" border="0" id="button2" vspace="1" hspace="1"></a><br>
+</td></tr></table>
+</div>
+<p>&nbsp;</p>
+<table>
+<tr>
+<td><a href="images/8by10images/scenic_images_8by10/snow_storm_nampa_n1.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/snow_storm_nampa_n1_200by135.jpg" width="200" height="135"></a></td><td><a href="images/8by10images/scenic_images_8by10/bonners_ferry_sun_reflection_n2_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/bonner_ferry_walk_sun_n2_200by135jpg.jpg" width="200" height="135"></a></td><td><a href="images/8by10images/scenic_images_8by10/canoes_stream_hegben_n3_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/canoes_floating_river_to_hegben_n3_200by135.jpg" width="200" height="135"></a></td><td><a href="images/8by10images/scenic_images_8by10/castle_of_rocks_n4_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/castle_of_rocks_idaho_n4_200by135.jpg" width="200" height="135"></a></td><td><a href="images/8by10images/scenic_images_8by10/helbertson_lake_waterfall_n5_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/helbertson_lake_waterfall_n5_200by135.jpg" width="200" height="135"></a></td><td><a href="images/8by10images/scenic_images_8by10/lake_lowell_trees_n6_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/lake_lowell_south_trees_n6_200by135.jpg" width="200" height="135"></a></td>
+</tr>
+<tr>
+<td><a href="images/8by10images/scenic_images_8by10/lizzard_butte_cross_n7_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/lizzard_butte_cross_snow_n7_200by135.jpg" width="200" height="135"></a></td><td><a href="images/8by10images/scenic_images_8by10/malad_river_gorge_n8_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/malad_river_gorge_n8_200by135.jpg" width="200" height="135"></a></td><td><a href="images/8by10images/scenic_images_8by10/peacock_table_snake_river_n9_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/peacock_table_n9_200by135.jpg" width="200" height="135"></a></td><td><a href="images/8by10images/scenic_images_8by10/sawtooth_mountain_range_n10_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/sawtooth_mountain_range_n10_200by135.jpg" width="200" height="135"></a></td><td><a href="images/8by10images/scenic_images_8by10/sawtooth_mountain_range_n11_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/sawtooth_mountain_range_trees_n11_200by135.jpg" width="200" height="135"></a></td><td><a href="images/8by10images/scenic_images_8by10/balloon_moon_n12_8by10.jpg"rel="lightbox"><img src="images/jpgs_200by135/scenic_images_200by135/ship_balloon_N_moon_n12_200by135.jpg" width="200" height="135"></a></td>
+</tr>
+</table>
+<td colspan ="4"><div align="center">
+      <p><em><strong>Great scenic images of various places places around Idaho and one Montana image enjoy</strong></em></p>
+</div></td>
+
+</body>
+</html>
